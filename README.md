@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<!DocType html> 
 
-You can use the [editor on GitHub](https://github.com/kyleM98/TrafalgarLaw/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<html> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <head> 
 
-### Markdown
+    <title>Trafalgar D. Water Law</title>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  </head>
 
-```markdown
-Syntax highlighted code block
+  <body> 
 
-# Header 1
-## Header 2
-### Header 3
+    <h1>Law the G.O.A.T</h1>
 
-- Bulleted
-- List
+    <p>Trafalgar D. Water Law, more commonly known as just Trafalgar Law, is an infamous pirate rookie in the Worst Generation and a former Shichibukai. He is the last survivor of the North Blue, Flevance.</p>
 
-1. Numbered
-2. List
+    <h2>Abilities:</h2>
 
-**Bold** and _Italic_ and `Code` text
+    <p>Law is the user of a Devil Fruit called the Ope Ope no Mi which allows him to create a spherical territory of light blue aura. In this territory, he is capable of separating and spatially displacing anything and everything inside (including himself), referred to as that he can "operate" on anything within the spherical "operating room". Easily among the most versatile Devil Fruits around, with his powers, Law is easily capable of causing mass havoc within the area he controls. He can also use it for teleportation purposes.</p>
 
-[Link](url) and ![Image](src)
-```
+  </body>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kyleM98/TrafalgarLaw/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html> 
